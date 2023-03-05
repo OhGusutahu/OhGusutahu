@@ -4,7 +4,7 @@ I'm a Computer Science undergraduate from Brazil. Before I entered college I've 
 I know a bit about:
 - C/C++
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+            <img href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 - Python
 - Html/CSS
