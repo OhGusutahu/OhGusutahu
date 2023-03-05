@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello! Welcome to my GitHub profile.
+I'm a Computer Science undergraduate from Brazil. Before I entered college I've never really learned anything about that, so as I'm writing this (2022), I'm still pretty new to all this.
+
+I know a bit about:
+- C/C++
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+- Python
+- Html/CSS
+- JavaScript
 
 <!--
 **OhGusutahu/OhGusutahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
