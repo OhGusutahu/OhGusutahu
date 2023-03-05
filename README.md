@@ -1,7 +1,7 @@
 ### Hello! Welcome to my GitHub profile.
 I'm a Computer Science undergraduate from Brazil. Before I entered college I've never really learned anything about that, so as I'm writing this (2022), I'm still pretty new to all this.
 
-###I know a bit about:
+### I know a bit about:
 - C/C++
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
 - Python
