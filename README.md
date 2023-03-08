@@ -11,9 +11,7 @@ I'm a Computer Science undergraduate from Brazil. Before I entered college I've 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=OhGusutahu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<!--
 ![Snake animation](https://github.com/OhGusutahu/OhGusutahu/blob/output/github-contribution-grid-snake.svg)
--->
 
 <!--
 **OhGusutahu/OhGusutahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
