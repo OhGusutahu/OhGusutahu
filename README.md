@@ -9,8 +9,7 @@ I'm a Computer Science undergraduate from Brazil. Before I entered college I've 
 <a href="https://OhGusutahu.github.io">
   <span>ohgusutahu.github.io</span>
 </a>
-
-
+<p></p>
 <div>
 <a href="https://github.com/OhGusutahu">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhGusutahu&layout=compact&langs_count=7&theme=dracula"/>
