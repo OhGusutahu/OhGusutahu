@@ -1,7 +1,7 @@
-### Hello! Welcome to Gusutahu's GitHub profile.
-I'm a Computer Science undergraduate from Brazil. Before I entered college I've never really learned anything about that, so as I'm writing this (2022), I'm still pretty new to all this.
+### Gustavo's GitHub profile.
+I'm a Computer Science undergraduate from Brazil.
 
-#### - I'm learning:
+#### - Currently learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C Logo" alt="C" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" title="C++ Logo" alt="C++" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,7 @@ I'm a Computer Science undergraduate from Brazil. Before I entered college I've 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30" title="JavaScript Logo" alt="JavaScript" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### - My new site:
+#### - More about me:
 <a href="https://OhGusutahu.github.io">
   <span>ohgusutahu.github.io</span>
 </a>
