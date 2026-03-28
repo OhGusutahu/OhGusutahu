@@ -1,10 +1,6 @@
 ### Gustavo's GitHub profile.
 I'm a Computer Science undergraduate from Brazil.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=$+npm+install;Running+project...;Done!&font=Fira+Code&size=18&pause=1000">
-</p>
-
 #### - Somewhat knowledgeable in:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C Logo" alt="C" />
