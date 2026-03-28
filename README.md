@@ -1,23 +1,14 @@
 ### Gustavo's GitHub profile.
-I'm a Computer Science undergraduate from Brazil.
+I'm a Computer Science undergraduate from Brazil focused in backend development.
 
-#### - Somewhat knowledgeable in:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C Logo" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" title="C++ Logo" alt="C++" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30" title="C# Logo" alt="C#" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" title="Python Logo" alt="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" title="HTML Logo" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" title="CSS Logo" alt="CSS" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="30" title="Java Logo" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30" title="JavaScript Logo" alt="JavaScript" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+#### - Skills/Learning:
+![Some SKills](https://skillicons.dev/icons?i=c,cpp,cs,py,mysql,docker,java,js,html,css,git)
 
+#### - Tools used:
+![Tools](https://skillicons.dev/icons?i=linux,arch,github,vscodium,stackoverflow,figma)
+
+#### - More:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin)](https://www.linkedin.com/in/gustavo-bulgarelli/)
 <!--
 #### - More about me:
 <a href="https://OhGusutahu.github.io">
