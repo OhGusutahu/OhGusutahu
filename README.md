@@ -1,14 +1,6 @@
 ### Gustavo's GitHub profile.
 I'm a Computer Science undergraduate from Brazil.
 
-$ whoami  
-name
-<svg width="10" height="20" xmlns="http://www.w3.org/2000/svg">
-  <rect width="10" height="20" fill="white">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-
 #### - Somewhat knowledgeable in:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C Logo" alt="C" />
