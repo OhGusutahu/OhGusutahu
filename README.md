@@ -2,7 +2,12 @@
 I'm a Computer Science undergraduate from Brazil.
 
 $ whoami  
-name <img src="cursor.gif" width="10">
+name
+<svg width="10" height="20" xmlns="http://www.w3.org/2000/svg">
+  <rect width="10" height="20" fill="white">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 #### - Somewhat knowledgeable in:
 <div>
