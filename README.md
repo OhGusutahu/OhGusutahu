@@ -1,6 +1,9 @@
 ### Gustavo's GitHub profile.
 I'm a Computer Science undergraduate from Brazil.
 
+$ whoami  
+name <img src="cursor.gif" width="10">
+
 #### - Somewhat knowledgeable in:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C Logo" alt="C" />
