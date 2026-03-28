@@ -1,6 +1,8 @@
 ### Gustavo's GitHub profile.
 I'm a Computer Science undergraduate from Brazil focused in backend development.
 
+Portuguese native speaker with Intermediate to Advanced level in English.
+
 #### - Skills/Learning:
 ![Some SKills](https://skillicons.dev/icons?i=c,cpp,cs,py,mysql,docker,java,js,html,css,git)
 
